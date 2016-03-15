@@ -1,0 +1,39 @@
+{
+  "actors": [
+    {
+      "name": "Bryan Cranston",
+      "starred": false,
+      "id": 1
+    },
+    {
+      "name": "Aaron Paul",
+      "starred": false,
+      "id": 2
+    },
+    {
+      "name": "Bob Odenkirk",
+      "starred": true,
+      "id": 3
+    },
+    {
+      "name": "Dean Norris",
+      "starred": true,
+      "id": 4
+    },
+    {
+      "name": "dipika",
+      "starred": false,
+      "id": 5
+    },
+    {
+      "name": "Piyusha",
+      "starred": false,
+      "id": 6
+    },
+    {
+      "name": "Pritesh",
+      "starred": false,
+      "id": 7
+    }
+  ]
+}
